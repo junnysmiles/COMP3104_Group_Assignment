@@ -2,3 +2,8 @@ FILE NAME: 101197834_sdlc.txt
 
 
 IMPORTANCE OF LEARNING DEVOPS ENGINEERING IN SDLC
+
+I remember you (professor) mentioning that DevOps is a culture; I have also seen it written in many other places online as well. 
+
+DevOps is important in SDLC mainly due to its' efficiency in taking multiple code changes from different engineers, and being able to test and deploy on a bigger scale continuously. 
+
