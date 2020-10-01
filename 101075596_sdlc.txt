@@ -1,3 +1,4 @@
 SDLC
 stands for Software Development Lifecycle
     1. Allows for continious integration speeding up development cycles
+    2. Can speed up deployment times of systems
