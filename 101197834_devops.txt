@@ -2,3 +2,10 @@ FILE NAME: 101197834_devops.txt
 
 
 ABOUT COMP3104 DEVOPS COURSE
+
+Taken from the Course Outline from the georgebrown.ca website:
+
+In this course students will learn the procedures, protocols and best practices that a DevOps engineer brings to a
+workplace environment to increase productivity. Analyze and evaluate various developer operation implementation
+available and implement hands-on work using industry standard toolkit. Create solution to complex business
+problem by adhering to the core responsibilities of DevOps.
