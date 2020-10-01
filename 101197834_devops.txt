@@ -1,5 +1,7 @@
 FILE NAME: 101197834_devops.txt
 
+Student: Jun Yan Gan (101197834)
+
 
 ABOUT COMP3104 DEVOPS COURSE
 
