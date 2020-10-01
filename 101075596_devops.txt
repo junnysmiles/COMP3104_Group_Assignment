@@ -1,3 +1,4 @@
 COMP 3104
 Course name: DevOps
 Professor: Pritesh Patel
+Professor email: pritesh.patel2@georgebrown.ca
