@@ -1,5 +1,0 @@
-COMP 3104
-Course name: DevOps
-Professor: Pritesh Patel
-Professor email: pritesh.patel2@georgebrown.ca
-Slack: https://join.slack.com/t/moxdroidlabs/shared_invite/zt-h5znu1ph-WcAPOwlLUDgpt_UvouMvXA
