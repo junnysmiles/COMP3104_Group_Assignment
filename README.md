@@ -15,5 +15,8 @@ Email kevin.silva@georgebrown.ca
 =======
 Email: nicholas.chinsen@georgebrown.ca
        Jun-Yan.Gan@georgebrown.ca
+<<<<<<< HEAD
 	Kevinjsilva94@gmail.com
 >>>>>>> parent of 9cb2915... e
+=======
+>>>>>>> parent of fa2fd20... updated readme file
