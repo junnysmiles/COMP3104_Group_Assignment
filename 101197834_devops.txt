@@ -1,0 +1,19 @@
+FILE NAME: 101197834_devops.txt
+
+Student: Jun Yan Gan (101197834)
+
+
+ABOUT COMP3104 DEVOPS COURSE
+
+Taken from the Course Outline from the georgebrown.ca website:
+
+In this course students will learn the procedures, protocols and best practices that a DevOps engineer brings to a
+workplace environment to increase productivity. Analyze and evaluate various developer operation implementation
+available and implement hands-on work using industry standard toolkit. Create solution to complex business
+problem by adhering to the core responsibilities of DevOps.
+
+
+
+WHAT IS DEVOPS? (Source: https://theagileadmin.com/what-is-devops/)
+
+DevOps is a term for a group of concepts that, while not all new, have catalyzed into a movement and are rapidly spreading throughout the technical community.  Like any new and popular term, people may have confused and sometimes contradictory impressions of what it is.  Here’s my take on how DevOps can be usefully defined; I propose this definition as a standard framework to more clearly discuss the various areas DevOps covers. Like “Quality” or “Agile,” DevOps is a large enough concept that it requires some nuance to fully understand.
