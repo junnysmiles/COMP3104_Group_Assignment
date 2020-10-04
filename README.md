@@ -3,3 +3,4 @@ COMP3104 DEVOPS- Jun Yan Gan, Nick Chinsen, Max Abramson, Kevin Silva
 
 Email: nicholas.chinsen@georgebrown.ca
        Jun-Yan.Gan@georgebrown.ca
+	Kevinjsilva94@gmail.com
